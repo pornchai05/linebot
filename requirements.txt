@@ -1,0 +1,5 @@
+opencv-contrib-python
+Flask
+Gunicorn
+line-bot-sdk
+wit
